@@ -1,0 +1,23 @@
+{
+    "project": "opendaylight",
+    "subject": "test",
+    "test-type": "performance",
+    "test-name": "openflowplugin-csit-1node-periodic-bulkomatic-perf-daily-only-carbon",
+    "test-run": 289,
+    "test-start-time": "20170612 16:50:04 GMT-07:00",
+    "test-duration": "00:01:05.942",
+    "pass-tests": 9,
+    "failed-tests": 0,
+    "performance-data": {
+        "rate": {
+            "Config DS": 5816.99726601,
+            "OVS Switch": 5757.05238918,
+            "Operational DS": 2654.49139945
+        },
+        "time": {
+            "Config DS": 17.191,
+            "OVS Switch": 17.37,
+            "Operational DS": 37.672
+        }
+    }    
+}

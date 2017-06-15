@@ -1,0 +1,2 @@
+http://192.168.0.1:5601/app/kibana
+http://192.168.0.1:9200/_search?pretty
